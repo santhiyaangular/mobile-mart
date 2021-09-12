@@ -3,11 +3,13 @@ import React from 'react';
 function List() {
   const greeting = 'Hello Function Component!';
  
-  return
-  <div>
+  return(
+    <div>
     <h1>{greeting}</h1>;
     <button>List</button>
-  </div> 
+  </div>
+  )
+  
 }
  
 export default List;
