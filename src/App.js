@@ -9,7 +9,6 @@ function App() {
          <h1>Welcome to React</h1>
         <div>
           <label>Username</label>
-          <input type="text"/>
           <label>Password</label>
           <input type="text"/>
           <button>Signup</button>
